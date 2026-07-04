@@ -49,3 +49,5 @@ Uwaga: przy wielu pytaniach lepiej używać Alt + Shift + A, bo URL dla ChatGPT 
 Najpewniejszy wariant:
 
 Alt + Shift + A → Alt + Tab → Ctrl + V → Enter
+
+sowacki3@gmail.com
